@@ -4,9 +4,7 @@ This is a simple snake game project using Javascript and HTML.
 
 ## Running
 
-```
-node app.js
-```
+Open `index.html` to view the project.
 
 ## How to play
 
