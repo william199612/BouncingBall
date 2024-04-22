@@ -1,6 +1,6 @@
-# Snake Game Project
+# Bouncing Ball Game Project
 
-This is a simple snake game project using Javascript and HTML.
+This is a simple bouncing ball game project using Javascript and HTML.
 
 ## Running
 
